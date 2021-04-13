@@ -1,0 +1,47 @@
+.navbar-home {
+	background-color: #fff;
+	color: #000;
+	height: 80px;
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
+.logo > img {
+	height: 90px;
+	padding-bottom: 10px;
+	align-items: center;
+}
+
+.content-body {
+	background-color: #e8e8e8;
+}
+
+.navbar-btn {
+	height: 40px;
+}
+
+.circle {
+	background-color: #ffe6cc;
+	border-radius: 50rem;
+}
+
+.brand-btn {
+	width: 100px;
+}
+
+.kami-btn {
+	height: 50px;
+	align-items: center;
+}
+
+.first-content {
+	margin: 10rem 0rem;
+}
+
+.second-content , .third-content {
+	margin: 10rem 0rem;
+}
+
+.footer {
+	margin-bottom: 10rem;
+}
