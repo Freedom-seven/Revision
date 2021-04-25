@@ -25,8 +25,22 @@
 	border-radius: 50rem;
 }
 
+.shadow {
+	margin-top: 10px;
+	box-shadow: 10px 20px 20px #000;
+}
+
+.shadow:hover {
+	box-shadow: 10px 20px 20px #00ffff;
+	transition: box-shadow 2s;
+}
+
 .brand-btn {
 	width: 100px;
+}
+
+.brand-btn:hover {
+	box-shadow: 5px 10px 15px 8px #000;
 }
 
 .kami-btn {
